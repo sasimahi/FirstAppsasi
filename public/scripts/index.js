@@ -173,6 +173,18 @@ function addItem(item, isNew) {
 
 }
 
+/* sasi sample starts here*/
+
+/*function createItem(item,)*/
+
+
+
+
+
+/*sasi sample ends here*/
+
+
+
 function deleteItem(deleteBtnNode) {
     var row = deleteBtnNode.parentNode.parentNode;
     var attribId = row.getAttribute('data-id');
